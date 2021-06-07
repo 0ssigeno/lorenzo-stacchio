@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lorenzo! <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/source.gif" width="50"></h2>
+<h2> Hi, I'm Marco! <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/source.gif" width="50"></h2>
 
 
 <a href="https://www.linkedin.com/in/lorenzo-stacchio" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-stacchio/)" alt="LinkedIn"></a>
@@ -18,6 +18,6 @@ Adept at motivating self and others.
 Passionate about data science and artificial intelligence.
 
 ### <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> My profile overview:
-![lorenzostacchio's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true)
+![Marco's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true)
 <br />
 <br />
